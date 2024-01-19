@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298768535908",
+    "project_id": "flutter-projects-8ccdc",
+    "storage_bucket": "flutter-projects-8ccdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298768535908:android:a51ca1b13bdaa098376a71",
+        "android_client_info": {
+          "package_name": "com.arielduarte.push_notification_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL-1fwzj-g-gGlYNAsZf16_lWFeXtypvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
